@@ -1,0 +1,438 @@
+G1 F3000
+G28
+G1 X0 Y0
+;------
+;Part RPROG
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X173.75 Y6
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X9.35 Y19.779999999999998
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X173.75 Y10
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X9.35 Y129.28
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part RLED
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X181.75 Y14
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X31.575 Y25.495
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X181.75 Y18
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X31.575 Y134.995
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part RCHG
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X181.75 Y6
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X12.524999999999999 Y19.145
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X181.75 Y10
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X12.524999999999999 Y128.64499999999998
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part R5
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X15 Y188.75
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X14.43 Y12.16
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X19 Y188.75
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X14.43 Y121.66
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part R4
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X7 Y188.75
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X10.62 Y9.62
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X11 Y188.75
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X10.62 Y119.12
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part LEDCHG
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y46
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X14.43 Y19.145
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y50
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X14.43 Y128.64499999999998
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part LED5
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y38
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X18.24 Y25.495
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y42
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X18.24 Y134.995
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part LED4
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y30
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X22.049999999999997 Y25.495
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y34
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X22.049999999999997 Y134.995
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part LED3
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y22
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X25.86 Y25.495
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y26
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X25.86 Y134.995
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part LED2
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y14
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X29.669999999999998 Y25.495
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y18
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X29.669999999999998 Y134.995
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part LED1
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y6
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X33.48 Y25.495
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X189.75 Y10
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X33.48 Y134.995
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part C11
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X15 Y196.75
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X10.62 Y15.97
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X19 Y196.75
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X10.62 Y125.47
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part C10
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X197.75 Y6
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X9.35 Y23.59
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X197.75 Y10
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X9.35 Y133.09
+G1 Z1
+G4 P100
+M107
+G4 P100
+;------
+;Part C9
+G1 Z7
+G1 Z7
+;--- move to tray ---
+G1 X7 Y196.75
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X14.43 Y9.62
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 Z7
+;--- move to tray ---
+G1 X11 Y196.75
+G1 Z3
+G4 P100
+M106
+G4 P100
+G1 Z7
+;---move to board---
+G1 X14.43 Y119.12
+G1 Z1
+G4 P100
+M107
+G4 P100
+G1 X0 Y0

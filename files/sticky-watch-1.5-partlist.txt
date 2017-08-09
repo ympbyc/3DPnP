@@ -1,0 +1,39 @@
+Partlist
+
+Exported from sticky-watch-v1.5.brd at 6/27/17 15:51
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant:
+
+Part      Value                      Package               Library             Position (inch)       Orientation
+
+C1        10u                        C0603                 rcl                 (0.625 0.175)         MR90
+C2        10u                        C0603                 rcl                 (0.625 0.75)          MR270
+C3        10u                        C0603                 rcl                 (1.2 0.45)            MR180
+C4        4.7u                       C0603                 rcl                 (1.2 0.65)            MR180
+C7        0.1u                       C0603                 rcl                 (0.175 0.35)          MR90
+C8        0.1u                       C0603                 rcl                 (0.075 0.35)          MR90
+C9        4.7u                       C0603                 rcl                 (0.45 0.3)            R0
+C10       4.7u                       C0603                 rcl                 (0.25 0.85)           R270
+C11       4.7u                       C0603                 rcl                 (0.3 0.55)            R180
+ISD1700SY ISD1700SY                  SO28W                 isd-new-1           (0.9 0.45)            MR90
+LED1      0                          SML0805               led                 (1.2 0.925)           R90
+LED2      0                          SML0805               led                 (1.05 0.925)          R90
+LED3      0                          SML0805               led                 (0.9 0.925)           R90
+LED4      0                          SML0805               led                 (0.75 0.925)          R90
+LED5      0                          SML0805               led                 (0.6 0.925)           R90
+LEDCHG    0                          SML0805               led                 (0.45 0.675)          R270
+M1        ELECTRET_MICROPHON-WM-63PR WM-63PR               microphon           (0.15 0.15)           R270
+R2        100k                       R0603                 rcl                 (1.2 0.55)            MR0
+R3        4k7                        R0603                 rcl                 (0.3 0.4)             MR0
+R4        4k7                        R0603                 rcl                 (0.3 0.3)             R180
+R5        4k7                        R0603                 rcl                 (0.45 0.4)            R180
+RCHG      1k                         R0603                 rcl                 (0.375 0.675)         R90
+RLED      1k                         R0603                 rcl                 (1.125 0.925)         R90
+RPROG     4k7                        R0603                 rcl                 (0.25 0.7)            R90
+S1        0                          SMD-TACT-5.2MM        proto-lab           (1.025 0.15)          R180
+S2        SMD-TACT                   SMD-TACT-5.2MM        proto-lab           (0.45 0.15)           R180
+U$2       MCP73831                   SOT23-5L               MCP73831           (0.4 0.825)           R90
+U1        ATMEGA328P-AU              QFP80P900X900X120-32N Atmel-ATMEGA328P-AU (0.9 0.575)           R225
+U2                                   USB-MICRO-SMD         MicroUSB            (0.05 0.85)           R0
