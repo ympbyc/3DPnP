@@ -20,7 +20,7 @@ Modifying the Printer
 + Connect the needle and the fishtank bubbler with a soft tube
 + Install a 12V relay in the power line of the fishtank bubbler
 + Connect the relay's coil and the fan output of your RAMPS board
-+ If it won't work, get Sprinter firmware and upload it to your RAMPS
++ Try running the sample GCode. If it won't work, get Sprinter firmware and upload it to your RAMPS
 
 [This blog post](http://mechanic.pilotz.jp/2017/07/diy-pnp-progress-report/) shows a few pictures
 
